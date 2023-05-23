@@ -15,7 +15,7 @@ class APP extends StatelessWidget {
     return MaterialApp(
       title: "ToDoList.io",
       theme: ThemeData(
-        primarySwatch: Colors.yellow,
+        primarySwatch: Colors.red,
       ),
       home: HomePage(),
       debugShowCheckedModeBanner: false,
